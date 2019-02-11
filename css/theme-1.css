@@ -3234,7 +3234,7 @@ footer.short-2 .contact-action:hover {
     bottom: 0px;
   }
   .top-bar .logo.logo-wide {
-    bottom: 10px;
+    bottom: 50px;
     margin-bottom: 22px;
   }
   .mobile-toggle {
@@ -3866,7 +3866,7 @@ footer.short-2 .contact-action:hover {
 }
 .simple-bar .logo {
   max-width: 800px;
-  max-height: 80px;
+  max-height: 70px;
   bottom: 32px;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
